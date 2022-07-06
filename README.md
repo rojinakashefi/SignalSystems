@@ -1,4 +1,4 @@
-# Signals and Sytems
+# Signals and Systems
 
 This repository is about Signal and Systems course projects at Amirkabir University of Technology Spring 2022.
 
